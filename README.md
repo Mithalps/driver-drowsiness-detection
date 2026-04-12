@@ -109,6 +109,15 @@ The model was quantized post-training to reduce size and inference time, making 
 
 ---
 
+## Circuit Diagram
+![Circuit Diagram](results/Circuit%20Diagram.png)
+
+## Workflow
+![Workflow](results/Workflow%20diagram.png)
+
+## Project Setup
+![Setup](results/Setup.png)
+
 ## Features
 
 - 1. Yawning detection (mouth aspect ratio)
