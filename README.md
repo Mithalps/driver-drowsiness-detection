@@ -111,11 +111,11 @@ The model was quantized post-training to reduce size and inference time, making 
 
 ## Features
 
-- [ ] Yawning detection (mouth aspect ratio)
-- [ ] Head pose estimation for distraction detection
-- [ ] GPS integration for emergency location alerts
-- [ ] Cloud logging / IoT dashboard (MQTT)
-- [ ] Mobile companion app
+- 1. Yawning detection (mouth aspect ratio)
+- 2. Head pose estimation for distraction detection
+- 3. GPS integration for emergency location alerts
+- 4. Cloud logging / IoT dashboard (MQTT)
+- 5. Mobile companion app
 
 ---
 
