@@ -118,6 +118,12 @@ The model was quantized post-training to reduce size and inference time, making 
 ## Project Setup
 ![Setup](results/Setup.png)
 
+## Demo Video
+
+Watch the live project demonstration here:  
+(https://youtube.com/shorts/F3qtn-yRcPo)
+
+
 ## Features
 
 - Real-time webcam-based eye monitoring
