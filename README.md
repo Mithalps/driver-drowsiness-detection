@@ -142,15 +142,6 @@ Watch the live project demonstration here:
 - Cloud logging / IoT dashboard (MQTT)
 - Mobile companion application
 
----
-
-## Authors
-
-- **Mithal P Shetty**
-- **Prathima B A** 
-- **Pullangati Shivaraj** 
-
----
 
 ## License
 
