@@ -1,6 +1,6 @@
 # Driver Drowsiness Detection
 
-A real-time IoT-based Driver Drowsiness Detection System designed to improve road safety by monitoring the driver's eye state and triggering alerts when drowsiness is detected.
+Real-Time Driver Drowsiness Detection using Computer Vision and Embedded Alert System designed to improve road safety by monitoring the driver's eye state and triggering alerts when drowsiness is detected.
 
 The system uses Computer Vision, Deep Learning, TensorFlow Lite, and Arduino UNO to detect fatigue and provide immediate feedback through buzzer alerts and LCD notifications.
 
@@ -120,11 +120,21 @@ The model was quantized post-training to reduce size and inference time, making 
 
 ## Features
 
-- 1. Yawning detection (mouth aspect ratio)
-- 2. Head pose estimation for distraction detection
-- 3. GPS integration for emergency location alerts
-- 4. Cloud logging / IoT dashboard (MQTT)
-- 5. Mobile companion app
+- Real-time webcam-based eye monitoring
+- Eye-state classification using deep learning
+- Quantized TensorFlow Lite model for lightweight inference
+- Arduino-based buzzer alert system
+- LCD display for driver status feedback
+- Serial communication between Python and Arduino
+- Low-latency real-time drowsiness detection
+
+## Future Enhancements
+
+- Yawning detection using mouth aspect ratio
+- Head pose estimation for distraction detection
+- GPS integration for emergency location alerts
+- Cloud logging / IoT dashboard (MQTT)
+- Mobile companion application
 
 ---
 
